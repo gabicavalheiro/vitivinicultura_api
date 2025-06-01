@@ -1,6 +1,6 @@
-# API Vitivinicultura Embrapa
+# API Vinicultura Embrapa
 
-API REST para coleta e análise de dados do setor vitivinícola brasileiro, com foco em aplicações de Machine Learning.
+API REST para coleta e análise de dados do setor vinícola brasileiro, com foco em aplicações de Machine Learning.
 
 ## 🌟 Características
 
